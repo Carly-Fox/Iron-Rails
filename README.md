@@ -4,4 +4,4 @@ Iron Rails is a roguelike train management survival game inspired by the tower d
 
 Explore the station, build and manage your train, and stay alive! Be sure to visit the counting house and saloon at each station where you can purchase cargo and meet the locals. Some of them may even be willing to help you out... for a price.
 
-The game can be downloaded on itch.io: https://bunny-gun-games.itch.io/iron-rails
+This game can be downloaded on itch.io: https://bunny-gun-games.itch.io/iron-rails
